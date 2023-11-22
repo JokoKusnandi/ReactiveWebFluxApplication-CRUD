@@ -4,7 +4,7 @@ To use the MongoDB shell on Windows, you'll need to follow these steps:
 
 Install MongoDB:
 
-Download the MongoDB Community Server MSI installer from the official MongoDB website: MongoDB Download Center.
+Download the MongoDB Community Server MSI installer from the official MongoDB website: MongoDB Download Center. https://www.mongodb.com/try/download/community
 Run the installer and follow the installation instructions.
 Start MongoDB Server:
 
